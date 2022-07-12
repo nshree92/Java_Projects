@@ -1,3 +1,4 @@
 Class Hello{
-    system printle();
+    system.out.println("Hello Git hub");
+    system.out.println("Hello Padmashree");
 }
